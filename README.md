@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Anil</h1>
-<h3 align="center">Passionate Coder</h3>
+<h3 align="center">Junior Computer Science & Engineering Student at Sabanci University</h3>
 
 
 - 📫 How to reach me **anilsen@sabanciuniv.edu**
