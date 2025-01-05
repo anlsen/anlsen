@@ -1,6 +1,4 @@
-<div style="display: flex; justify-content: center; align-items: center; height: 200px;">
-  <img alt="Coding Banner" width="100%" src="/intro.gif">
-</div>
+
 
 <h1 align="center">Hi 👋, I'm Anil</h1>
 <h3 align="center">Junior Computer Science & Engineering Student at Sabanci University</h3>
